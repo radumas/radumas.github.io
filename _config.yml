@@ -9,7 +9,8 @@ author: Raphael Dumas
 description: > # "Write an awesome description for your new site here. 
   Professional portfolio page for Raphael Dumas, containing github projects & other interesting things.
 copyright: 'Copyright &copy; 2015 Raphael Dumas. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+Credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
