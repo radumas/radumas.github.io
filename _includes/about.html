@@ -5,7 +5,10 @@
               <br/><br/>
               <h2>About Me</h2>
               <br/>
+                {% capture fileContent %}
                 {% include about-me.md %}
+                {% endcapture %}
+                {{ fileContent | markdownify }}
                 <br/>
               </div>
         </div>
