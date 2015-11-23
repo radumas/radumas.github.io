@@ -30,3 +30,6 @@ social:
     url: https://github.com/radumas
   - title: linkedin
     url: https://linkedin.com/dumasraphael
+  - title: email
+    icon: envelope
+    url: 'http://www.google.com/recaptcha/mailhide/d?k=013a5G6_H_QKf8qWek_enn7A==&amp;c=ud8N3MmB0xsj2vRgr99qvJ4swqt1HqryA_MG83ap30o=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\075013a5G6_H_QKf8qWek_enn7A\75\75\46c\75ud8N3MmB0xsj2vRgr99qvJ4swqt1HqryA_MG83ap30o\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;'
