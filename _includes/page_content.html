@@ -11,11 +11,15 @@
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ post.title }}</h2>
+                    <h2 class="section-heading">
+                        <a href="{{ post.link }}">
+                            {{ post.title }}
+                        </a>
+                    </h2>
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                    <a href="{{ post.link }}"><img class="img-responsive" src="img/services/{{ post.img }}" alt=""></a>
                 </div>
             </div>
 
@@ -43,7 +47,7 @@
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                  <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                    <a href="{{ post.link }}"><img class="img-responsive" src="img/services/{{ post.img }}" alt=""></a>
                 </div>
             </div>
 
