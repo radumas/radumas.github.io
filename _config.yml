@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://www.radumas.info
+url: http://radumas.info
 title: Raphael Dumas
 author: Raphael Dumas
 description: > # "Write an awesome description for your new site here. 
   Professional portfolio page for Raphael Dumas, containing github projects & other interesting things.
-copyright: 'Copyright &copy; 2015 Raphael Dumas. All Rights Reserved.'
+copyright: 'Copyright &copy; 2015-2017 Raphael Dumas. All Rights Reserved.'
 
 Credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
